@@ -44,7 +44,7 @@ button:hover {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   row-gap: 48px;
   column-gap: 24px;
